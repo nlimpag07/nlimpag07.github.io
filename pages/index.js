@@ -10,7 +10,10 @@ const Home = () => (
 
     <section>
       <header>
-        <h2>Explore a few excerpts from my favorite books</h2>
+        <h2>
+          Explore a few excerpts from my favorite books and I think everything
+          is good now
+        </h2>
       </header>
       <p>
         Read the first few lines of the books that shaped my childhood fantasies
