@@ -22,4 +22,4 @@ COPY . .
 EXPOSE 3000
 
 #Run the setup
-CMD npm run dev
+CMD npm run start
