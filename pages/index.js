@@ -1,4 +1,4 @@
-import Navigation from '../components/Navigation';
+import Navigation from "../components/Navigation";
 
 const Home = () => (
   <article>
@@ -12,7 +12,13 @@ const Home = () => (
       <header>
         <h2>Explore a few excerpts from my favorite books</h2>
       </header>
-      <p>Read the first few lines of the books that shaped my childhood fantasies and inspired my adulthood.</p>
+      <p>
+        Read the first few lines of the books that shaped my childhood fantasies
+        and inspired my adulthood.
+      </p>
+      <p>
+        This site created b: Noel Limpag <i>for learning purposes only</i>
+      </p>
     </section>
   </article>
 );
