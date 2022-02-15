@@ -20,8 +20,7 @@ const Home = () => (
         and inspired my adulthood.
       </p>
       <p>
-        This site created b: Noel Limpag{" "}
-        <i>for learning purposes only.. Please Run Now</i>
+        This site created b: Noel Limpag <i>for learning purposes only...</i>
       </p>
     </section>
   </article>
