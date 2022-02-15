@@ -2,22 +2,16 @@
 
 html,
 body {
-  background: lightseagreen;
+  background: #ffbdad;
   font-family: "Helvetica", sans-serif;
   font-size: 20px;
   margin: 0;
   padding: 0;
 }
 
-article {
-  background: lightyellow;
-  border: 3px solid dimgray;
-  border-radius: 12px;
-  margin: 15px;
-}
-
 article img {
   padding: 0 25px;
+  margin: 45% 50%;
 }
 
 article > header {
@@ -50,5 +44,5 @@ nav a:hover {
 }
 
 section {
-  padding: 10px 25px;
+  padding: 10% 35%;
 }
