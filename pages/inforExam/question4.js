@@ -29,7 +29,7 @@ const PersonForm = () => {
           </div>
         </div>
         <br />
-        <p>Answer Promise Code:</p>
+        <p>New Code Using Promise:</p>
         <div
           id="targetElem"
           style={{
