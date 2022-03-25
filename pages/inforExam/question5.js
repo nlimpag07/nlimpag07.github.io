@@ -27,7 +27,7 @@ const Question5 = () => {
   return (
     <section>
       <div id="questionSix">
-        <h1>Question 6 Answer:</h1>
+        <h1>Question 5 Answer:</h1>
         <p>Code Result</p>
         <div
           id="targetElem"
