@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-const SearchingChallengeq = () => {
+const Question8 = () => {
   /* 
   Have the function GroupTotals(strArr) read in the strArr parameter containing key:value pairs where the key is a string and the value is an integer. 
   Your program should return a string with new key:value pairs separated by a comma such that each key appears only once with the total values summed up. 
@@ -224,4 +224,4 @@ const SearchingChallengeq = () => {
     </section>
   );
 };
-export default SearchingChallengeq;
+export default Question8;
